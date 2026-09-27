@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/pratham_22" target="blank"><img src="https://img.shields.io/twitter/follow/pratham_22?logo=twitter&style=for-the-badge" alt="pratham_22" /></a> </p>
 
-- 🔭 I’m currently working on **Appium**
+- 🔭 I’m currently working on **Playwright, Appium**
 
-- 🌱 I’m currently learning **Selenium WebDriver, Appium, Playwright**
+- 🌱 I’m currently learning **Playwright, Appium, Selenium WebDriver**
 
-- 👯 I’m looking to collaborate on **Selenium WebDriver**
+- 👯 I’m looking to collaborate on **Playwright, Appium, Selenium WebDriver**
 
 - 🤝 I’m looking for help with **TypeScript, Python**
 
@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1d82LoU1-Ws0738x_RSu0ODVQfbENNM8E/view?usp=drive_link](https://drive.google.com/file/d/1d82LoU1-Ws0738x_RSu0ODVQfbENNM8E/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I am curious!**
+- ⚡ Fun fact ** **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
